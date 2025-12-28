@@ -6,6 +6,7 @@ SONAR Dataset
 📌 Project Overview
 
 This project focuses on building a machine learning model to classify objects as Rock or Mine using the SONAR dataset. The objective is to apply core machine learning concepts to a real-world dataset and demonstrate an end-to-end ML workflow using Python.
+
 The project covers data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation to achieve reliable and interpretable results.
 
 🧠 Problem Statement
@@ -16,10 +17,13 @@ This is a binary classification problem commonly used to evaluate machine learni
 📊 Dataset Information
 
 Dataset Name: SONAR Dataset
+
 Number of Features: 60 numerical attributes
 
 Target Variable:
+
 R → Rock
+
 M → Mine
 
 Data Type: Real-world numerical signal data
@@ -29,8 +33,13 @@ Data Type: Real-world numerical signal data
 Programming Language: Python
 
 Libraries:
+
 NumPy
+
 Pandas
+
+Matplotlib / Seaborn
+
 Scikit-learn
 
 Environment: Jupyter Notebook
@@ -38,16 +47,23 @@ Environment: Jupyter Notebook
 🔄 Project Workflow
 
 Data loading and inspection
+
 Data preprocessing and cleaning
+
 Exploratory Data Analysis (EDA)
+
 Feature selection and scaling
+
 Model building (supervised learning)
+
 Model evaluation and performance analysis
 
 📈 Model & Evaluation
 
 Applied supervised machine learning algorithms for binary classification
+
 Evaluated model performance using appropriate metrics such as accuracy and confusion matrix
+
 Focused on practical understanding rather than just maximizing accuracy
 
 📁 Repository Structure
@@ -58,15 +74,21 @@ Focused on practical understanding rather than just maximizing accuracy
 🎯 Key Learnings
 
 Hands-on experience with real-world datasets
+
 Understanding of the complete machine learning pipeline
+
 Improved skills in data preprocessing and model evaluation
+
 Practical application of ML concepts using Python
 
 🚀 Future Improvements
 
 Experiment with additional ML algorithms
+
 Apply hyperparameter tuning
+
 Add cross-validation for better generalization
+
 Deploy the model using a simple web interface
 
 🤝 Contributing
